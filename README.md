@@ -1,4 +1,4 @@
-# ⭐ Generative Adversarial Network (GAN) for CIFAR-10 ⭐
+# ⭐ Generative Adversarial Network (GAN) for CIFAR-10 
 
 This project implements a Generative Adversarial Network (GAN) using the Keras library to generate new images based on the CIFAR-10 dataset.
 
